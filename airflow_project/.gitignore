@@ -1,0 +1,16 @@
+.git
+.env
+.DS_Store
+airflow_settings.yaml
+__pycache__/
+astro
+.venv
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+include/data/minio/.minio.sys/buckets
+include/data/minio/.minio.sys/config
+include/data/minio/.minio.sys/multipart
+include/data/minio/.minio.sys/pool.bin
+include/data/minio/.minio.sys/tmp
